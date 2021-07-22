@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewAppTask</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="priority">Priority</string>
+    <string name="save">Save</string>
+    <string name="delete_all_notes">Delete all notes</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="rest_api_demo">Rest Api Demo</string>
+    <string name="download_pdf_demo">Download PDF Demo</string>
+    <string name="room_db_demo">Room DB Demo</string>
+    <string name="add_books">Add Book</string>
+    <string name="edit_books">Edit Book</string>
+</resources>
